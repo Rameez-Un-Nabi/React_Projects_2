@@ -2,4 +2,6 @@
 
 Three Projects
 
-First Responsive Design            Second React Calculator        Third Budget App in React 
+##First Responsive Design
+##Second React Calculator
+##Third Budget App in React 
